@@ -26,8 +26,8 @@ var largest: Int
 largest = number1 > number2 ? number1:number2
 print(largest)
 
-print("The result for set 1 was: number 2")
-print("The result for set 2 was: number 1")
-print("The result for set 3 was: both were equal")
+print("The result for set 1 was: 25")
+print("The result for set 2 was: 30")
+print("The result for set 3 was: 25")
 
 //: [Previous](@previous)  |  page 8 of 9  |  [Next](@next)

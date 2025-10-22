@@ -23,9 +23,9 @@ if(dollars == 0){
 dollars = 105
 if(dollars == 0){
     print("Sorry, kid. You're broke!")
-}else if(dollars < 100)
+}else if(dollars < 100){
     print("You've got some spending money!")
-else{
+}else{
     print("Looks to me like you're rich!")
 }
 //: [Previous](@previous)  |  page 2 of 9  |  [Next](@next)

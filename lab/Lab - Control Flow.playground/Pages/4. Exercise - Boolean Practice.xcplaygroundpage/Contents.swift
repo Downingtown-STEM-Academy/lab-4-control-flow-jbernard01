@@ -31,13 +31,14 @@ let temp = 82
 let isRaining = true
 let isWindy = false
  */
-/*Set 2
-
+//Set 2
+/*
 let temp = 82
 let isRaining = true
 let isWindy = true
 */
 //Set 3
+
 let temp = 75
 let isRaining = false
 let isWindy = true
